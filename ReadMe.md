@@ -7,7 +7,7 @@ DFS (Depth-First Search): Ky algoritëm eksploron degët e mundshme të tabelës
 
 Të dyja metodat përdorin një tabelë 8x8 dhe lëvizjet e zakonshme të kalorësit në shah (në drejtimet diagonale). Programi lejon përdoruesit të fusë pozitat fillestare dhe destinacionin dhe më pas përcakton rrugën e mundshme për të kaluar nga njëra pikë në tjetrën.
 
-<h5>Përdorimi:</h5>
+<h3>Përdorimi:</h3>
 
 Përdoruesi fut pozitat fillestare dhe destinacionin.
 Programi përdor BFS ose DFS për të kërkuar rrugën dhe e shfaq atë.
