@@ -1,3 +1,4 @@
+<h1>Kalorësi në Shah: BFS dhe DFS</h1>
 Ky repository përmban dy implementime të algoritmeve për gjetjen e rrugës më të shkurtër për kalorësin në shah në një tabelë 8x8. Përdoren dy metoda kërkimi: Breadth-First Search (BFS) dhe Depth-First Search (DFS).
 
 BFS (Breadth-First Search): Ky algoritëm kërkon rrugën më të shkurtër për kalorësin, duke eksploruar të gjitha mundësitë në mënyrë të barabartë dhe pa shpenzuar shumë kohë, duke siguruar një rrugë optimale.
