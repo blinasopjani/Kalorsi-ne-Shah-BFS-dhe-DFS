@@ -1,25 +1,14 @@
 <h1>Kalorësi në Shah: BFS dhe DFS</h1>
-    <p>
-        Ky repository përmban dy implementime të algoritmeve për gjetjen e rrugës më të shkurtër për kalorësin në shah në një tabelë 8x8. Përdoren dy metoda kërkimi: <strong>Breadth-First Search (BFS)</strong> dhe <strong>Depth-First Search (DFS)</strong>.
-    </p>
+Ky repository përmban dy implementime të algoritmeve për gjetjen e rrugës më të shkurtër për kalorësin në shah në një tabelë 8x8. Përdoren dy metoda kërkimi: Breadth-First Search (BFS) dhe Depth-First Search (DFS).
 
-    <h2>BFS (Breadth-First Search)</h2>
-    <p>
-        Ky algoritëm kërkon rrugën më të shkurtër për kalorësin, duke eksploruar të gjitha mundësitë në mënyrë të barabartë dhe pa shpenzuar shumë kohë, duke siguruar një rrugë optimale.
-    </p>
+BFS (Breadth-First Search): Ky algoritëm kërkon rrugën më të shkurtër për kalorësin, duke eksploruar të gjitha mundësitë në mënyrë të barabartë dhe pa shpenzuar shumë kohë, duke siguruar një rrugë optimale.
 
-    <h2>DFS (Depth-First Search)</h2>
-    <p>
-        Ky algoritëm eksploron degët e mundshme të tabelës duke shkuar sa më thellë që të jetë e mundur, duke përdorur një strategji të thellimit të kërkimit.
-    </p>
+DFS (Depth-First Search): Ky algoritëm eksploron degët e mundshme të tabelës duke shkuar sa më thellë që të jetë e mundur, duke përdorur një strategji të thellimit të kërkimit. 
 
-    <p>
-        Të dyja metodat përdorin një tabelë 8x8 dhe lëvizjet e zakonshme të kalorësit në shah (në drejtimet diagonale). Programi lejon përdoruesit të fusë pozitat fillestare dhe destinacionin dhe më pas përcakton rrugën e mundshme për të kaluar nga njëra pikë në tjetrën.
-    </p>
+Të dyja metodat përdorin një tabelë 8x8 dhe lëvizjet e zakonshme të kalorësit në shah (në drejtimet diagonale). Programi lejon përdoruesit të fusë pozitat fillestare dhe destinacionin dhe më pas përcakton rrugën e mundshme për të kaluar nga njëra pikë në tjetrën.
 
-    <h3>Përdorimi:</h3>
-    <ol>
-        <li>Përdoruesi fut pozitat fillestare dhe destinacionin.</li>
-        <li>Programi përdor BFS ose DFS për të kërkuar rrugën dhe e shfaq atë.</li>
-        <li>Nëse rruga është gjetur, do të shfaqet numri i lëvizjeve dhe rruga e plotë; përndryshe, do të tregojë një mesazh që nuk ka rrugë të mundshme.</li>
-    </ol>
+<h5>Përdorimi:</h5>
+
+Përdoruesi fut pozitat fillestare dhe destinacionin.
+Programi përdor BFS ose DFS për të kërkuar rrugën dhe e shfaq atë.
+Nëse rruga është gjetur, do të shfaqet numri i lëvizjeve dhe rruga e plotë; përndryshe, do të tregojë një mesazh që nuk ka rrugë të mundshme.
