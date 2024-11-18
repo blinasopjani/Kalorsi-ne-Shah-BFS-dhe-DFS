@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\KalorsiBFS\obj\Debug\net8.0\KalorsiBFS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\KalorsiBFS\obj\Debug\net8.0\KalorsiBFS.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\KalorsiBFS\obj\Debug\net8.0\KalorsiBFS.AssemblyInfo.cs
+C:\Users\Admin\Desktop\KalorsiBFS\obj\Debug\net8.0\KalorsiBFS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\KalorsiBFS\bin\Debug\net8.0\KalorsiBFS.exe
+C:\Users\Admin\Desktop\KalorsiBFS\bin\Debug\net8.0\KalorsiBFS.deps.json
+C:\Users\Admin\Desktop\KalorsiBFS\bin\Debug\net8.0\KalorsiBFS.runtimeconfig.json
+C:\Users\Admin\Desktop\KalorsiBFS\bin\Debug\net8.0\KalorsiBFS.dll
+C:\Users\Admin\Desktop\KalorsiBFS\bin\Debug\net8.0\KalorsiBFS.pdb
+C:\Users\Admin\Desktop\KalorsiBFS\obj\Debug\net8.0\KalorsiBFS.dll
+C:\Users\Admin\Desktop\KalorsiBFS\obj\Debug\net8.0\refint\KalorsiBFS.dll
+C:\Users\Admin\Desktop\KalorsiBFS\obj\Debug\net8.0\KalorsiBFS.pdb
+C:\Users\Admin\Desktop\KalorsiBFS\obj\Debug\net8.0\KalorsiBFS.genruntimeconfig.cache
+C:\Users\Admin\Desktop\KalorsiBFS\obj\Debug\net8.0\ref\KalorsiBFS.dll

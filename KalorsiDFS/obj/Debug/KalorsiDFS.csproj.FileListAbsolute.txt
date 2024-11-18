@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\KalorsiDFS\bin\Debug\KalorsiDFS.exe.config
+C:\Users\Admin\Desktop\KalorsiDFS\bin\Debug\KalorsiDFS.exe
+C:\Users\Admin\Desktop\KalorsiDFS\bin\Debug\KalorsiDFS.pdb
+C:\Users\Admin\Desktop\KalorsiDFS\obj\Debug\KalorsiDFS.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\KalorsiDFS\obj\Debug\KalorsiDFS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\KalorsiDFS\obj\Debug\KalorsiDFS.exe
+C:\Users\Admin\Desktop\KalorsiDFS\obj\Debug\KalorsiDFS.pdb
